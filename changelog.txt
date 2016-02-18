@@ -1,6 +1,7 @@
 Newest changes at the top
 Format: MM/DD/YYYY HH:MM - comment  
 
+02/18/2016 14:33 - step 3 initialize and config Rating, housekeeping for jRating, and added average
 02/18/2016 14:33 - step 3 added  jrating and fix the css and js.
 02/18/2016 14:18 - Step 1 and 2 are complete, setup for caboose are done.
 02/18/2016 13:56 - Initial Setup
