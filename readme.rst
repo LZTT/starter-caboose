@@ -1,3 +1,33 @@
+************
+Team Members
+************
+
+Lin Zhu - A00887550
+Tanja Tong - A00907319
+
+
+***********
+Conventions
+***********
+
+Allman style  
+
+tab indentation  
+
+ucfirst (Upper case first) for classes and files  
+
+lowercase for name elsewhere  
+
+words separated by underscore  
+
+underscore first for internal items  
+
+***********
+Parts Taken
+***********
+
+
+
 ###################################
 Tutorial 5 Starter Webapp - Caboose
 ###################################
