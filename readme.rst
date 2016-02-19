@@ -2,8 +2,8 @@
 Team Members
 ************
 
-Lin Zhu - 
-
+Lin Zhu - A00887550
+Tanja Tong - A00907319
 
 
 ***********
